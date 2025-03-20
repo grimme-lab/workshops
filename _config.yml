@@ -4,11 +4,11 @@ remote_theme: "just-the-docs/just-the-docs"
 
 
 baseurl: ""
-url: https://cplett.github.io
+url: https://grimme-lab.github.io
 
 logo: /assets/images/Grimme-Lab.png
 favicon_ico: /assets/images/Grimme-Lab.png
-repository: cplett/cplett.github.io
+repository: grimme-lab/workshops
 color_scheme: light
 
 permalink: pretty
