@@ -1,2 +1,2 @@
-# Workshops
-Workshop webpage for Grimme-Lab and Crest-Lab related software.
+# xtb, crest, censo, and QCxMS workshop material
+Workshop material
